@@ -387,6 +387,9 @@ aside.aside-left {
 .text-primary, .text-primary *, .primary-color-primary .text-primary, .primary-color-primary .text-primary * {
   color: #de5921 !important;
 }
+.text-primary-ilacet, .text-primary *, .primary-color-primary .text-primary, .primary-color-primary .text-primary * {
+  color: #3eb16f !important;
+}
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
   color: #454545 !important;
 } 
